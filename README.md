@@ -1,0 +1,2 @@
+# Evaly-Mobile-App-Complete-End-to-End-Automation-Tests-Using-Appium
+A comprehensive end-to-end automation testing suite for the Evaly mobile app, built using Appium. This project aims to ensure a seamless user experience by automating critical user flows, covering login, shopping, payment, and order tracking features. Ideal for validating app functionality across different devices and operating systems
