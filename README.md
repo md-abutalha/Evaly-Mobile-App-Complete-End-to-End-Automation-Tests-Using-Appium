@@ -52,7 +52,7 @@ Appium
 ```bash
 mvn test
 ```
-$#Generate Allure Report
+## Generate Allure Report
 After tests execution, generate the Allure report:
 ```bash
 allure serve allure-results
