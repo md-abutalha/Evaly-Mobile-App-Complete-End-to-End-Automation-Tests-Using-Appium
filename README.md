@@ -29,10 +29,10 @@ Before starting, ensure the following are installed on your system:
 ## Installation
 
 1. **Clone the Repository**:
+   
    ```bash
    git clone https://github.com/yourusername/Evaly-App-Automation.git
-   cd Evaly-App-Automation
-'''
+   
 ## 2. Install Dependencies: 
 - Run the following Maven command to download and install required dependencies:
    ```bash
@@ -42,7 +42,7 @@ Before starting, ensure the following are installed on your system:
 - Update testng.xml for your testing preferences.
 - Ensure your device/emulator is connected and Appium server is running.
 
-# How to Execute Tests
+## How to Execute Tests
 ### Start Appium Server: Launch the Appium server:
 ```bash
 Appium
