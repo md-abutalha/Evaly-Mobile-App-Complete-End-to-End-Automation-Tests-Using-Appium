@@ -37,7 +37,7 @@ Before starting, ensure the following are installed on your system:
 - Run the following Maven command to download and install required dependencies:
    ```bash
   mvn clean install
-'''
+
 ## 3. Configure the Project:
 - Update testng.xml for your testing preferences.
 - Ensure your device/emulator is connected and Appium server is running.
